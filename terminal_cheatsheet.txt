@@ -1,0 +1,10 @@
+mkdir - make new directory
+ni - new item file_name.extension
+cd - change directory minták:
+    cd .. #kilépés
+    cd document\document\ #átlépés
+ls - list 
+code . - open is Visual Studio code
+up arrow - previous command
+tab #kiegészítés
+ls -force #rejtett fájlok előhívása
