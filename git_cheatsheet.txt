@@ -14,3 +14,4 @@ git remote #van remote
 git remote -v #látom a linket is
 git push (hibát ír ki) bemásoljuk a sort
 git push --set-upstream origin master  
+git clone url . #végén pont fontos 
