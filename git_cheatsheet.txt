@@ -1,5 +1,16 @@
 git init #git indítás   
-git kijön help
+git #kijön help
+git add . #snapshot létrehozása
+git commit - m "szöveg" #commitoljuk a változtatásokat
 git switch - #rollback
-git log #log
+git log #log 
 git checkout #verzióra átállás
+git status 
+git remote add "origin" link
+---------------------------------
+githubon csinálunk egy üres repot
+git remote add "origin" URL
+git remote #van remote
+git remote -v #látom a linket is
+git push (hibát ír ki) bemásoljuk a sort
+git push --set-upstream origin master  
